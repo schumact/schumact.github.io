@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I work in the cyber security industry. My interests lie in offensive security and reading/writing code.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+schumactです。今はサイバーセキュリティの仕事をやっています。趣味はオフェンスセキュリティとプログラミングと日本語の勉強。このブラグでは変な日本語が書いている可能性が高いのでどうかお許してください。
